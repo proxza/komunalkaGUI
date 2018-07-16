@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KomunalkaGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KomunalkaGUI_jar</output-path>
+    <root id="archive" name="KomunalkaGUI.jar">
+      <element id="module-output" name="KomunalkaGUI" />
+    </root>
+  </artifact>
+</component>
